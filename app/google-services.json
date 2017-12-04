@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "353709401661",
+    "firebase_url": "https://test-1a3aa.firebaseio.com",
+    "project_id": "test-1a3aa",
+    "storage_bucket": "test-1a3aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353709401661:android:62d31da65348e2d9",
+        "android_client_info": {
+          "package_name": "com.minimore.fcmsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353709401661-m0plh5fbt5ngttg77eka9h8lfiolu02i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4UecXV-MryBAxzy9NGnrIkydvO5HPl6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
